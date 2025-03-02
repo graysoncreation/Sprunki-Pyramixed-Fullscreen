@@ -1,0 +1,16 @@
+{
+    "name": "Sprunki Pyramixed 0.9",
+    "short_name": "Sprunki Pyramixed",
+    "description": "The Google Eggs Web App",
+    "start_url": "https://fullscreen.pyramix.com/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "icons": [
+        {
+            "src": "pyramixed.png",
+            "sizes": "80x84",
+            "type": "image/png"
+        }
+    ]
+}
